@@ -1010,11 +1010,12 @@ button {
 }
 
 #hero5 {
-  background: url("../images/bg.jpg") center center;
-  background-size: cover;
+  background: url("../images/bg-flip.jpg") center center;
+  background-size: cover;  
   height: 880px;
   position: relative;
 }
+
 
 #hero5:before {
   content: '';
@@ -1067,7 +1068,7 @@ button {
 }
 
 #hero5 .section-head {
-  margin-top: 350px;
+  margin-top: 250px;
   text-align: left;
 }
 
