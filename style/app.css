@@ -1010,7 +1010,7 @@ button {
 }
 
 #hero5 {
-  background: url("/images/bg.jpg") center center;
+  background: url("../images/bg.jpg") center center;
   background-size: cover;
   height: 880px;
   position: relative;
