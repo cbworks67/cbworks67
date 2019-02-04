@@ -1102,6 +1102,13 @@ button {
   }
 }
 
+@media (max-width: 640px) {
+  #hero5 {
+    height: 1250px;
+  }
+}
+
+
 #hero6 {
   height: 880px;
   background-image: -webkit-linear-gradient(90deg, #6a1b9a 0%, #651fff 100%);
