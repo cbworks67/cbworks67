@@ -1,0 +1,48 @@
+{
+  "name": "otho",
+  "version": "1.0.0",
+  "description": "landing page set",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "app",
+    "landing",
+    "page",
+    "catering",
+    "course",
+    "fitness",
+    "landing",
+    "page",
+    "landing",
+    "page",
+    "pack",
+    "marketing",
+    "multipurpose",
+    "one",
+    "page",
+    "page",
+    "builder",
+    "site",
+    "builder",
+    "startup",
+    "landing",
+    "page",
+    "static",
+    "site",
+    "template"
+  ],
+  "author": "ra-themes (mohamed said )",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "nicescroll": "^3.7.0",
+    "tether": "^1.4.0"
+  }
+}
